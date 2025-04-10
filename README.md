@@ -12,8 +12,6 @@ The preprocessing steps I applied include:
 
 By applying these methods, I learned how to convert messy, unstructured text into a cleaner, more structured form that can be used in various NLP applications such as sentiment analysis, text classification, and topic modeling.
 
----
-
 ## 🚀 Future Plan
 
 In the future, I plan to build upon this project by:
@@ -26,12 +24,10 @@ In the future, I plan to build upon this project by:
 This project is an important first step in my journey toward mastering NLP and data science, and I look forward to expanding it with more features and deeper analysis.
 
 ## Author
-**Name:** Dimas Oktavian Prasetyo
-**Student ID:** 22230016 
-**Course:** Data Mining Practicum   
+**Name:** Dimas Oktavian Prasetyo, Junior Software Engineer and Cybersecurity Specialist
+**Student ID:** 22230016
+**Course:** Data Mining Practicum
 **Instructor:** Sir. Thomas Andrianto, S.Si., M.Cs
-
----
 
 ## Ringkasan
 
