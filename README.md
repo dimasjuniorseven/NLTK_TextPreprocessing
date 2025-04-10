@@ -13,7 +13,6 @@ The preprocessing steps I applied include:
 By applying these methods, I learned how to convert messy, unstructured text into a cleaner, more structured form that can be used in various NLP applications such as sentiment analysis, text classification, and topic modeling.
 
 ## 🚀 Future Plan
-
 In the future, I plan to build upon this project by:
 - Using real-world datasets like product reviews, tweets, or news articles
 - Comparing the results of stemming vs lemmatization
@@ -24,8 +23,10 @@ In the future, I plan to build upon this project by:
 This project is an important first step in my journey toward mastering NLP and data science, and I look forward to expanding it with more features and deeper analysis.
 
 ## Author
-**Name:** Dimas Oktavian Prasetyo, Junior Software Engineer and Cybersecurity Specialist | **Student ID (NIM):** 22230016 | **Course:** Data Mining Practicum | **Instructor:** Sir. Thomas Andrianto, S.Si., M.Cs
+**Name:** Dimas Oktavian Prasetyo, Junior Software Engineer and Cybersecurity Specialist
+**Student ID (NIM):** 22230016
+**Course:** Data Mining Practicum
+**Instructor:** Sir. Thomas Andrianto, S.Si., M.Cs
 
 ## Ringkasan
-
 Proyek ini adalah tugas saya dalam mempelajari prapemrosesan teks menggunakan Python dan pustaka NLTK. Saya menjalankan dan menuliskan semua proses ini menggunakan Jupyter Notebook melalui Anaconda Navigator. Proses mencakup tokenisasi, case folding, pembersihan tanda baca, penghapusan stopwords, serta stemming atau lemmatization. Hasil akhirnya adalah teks yang bersih dan siap digunakan untuk analisis lanjutan.
