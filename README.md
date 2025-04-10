@@ -24,10 +24,7 @@ In the future, I plan to build upon this project by:
 This project is an important first step in my journey toward mastering NLP and data science, and I look forward to expanding it with more features and deeper analysis.
 
 ## Author
-**Name:** Dimas Oktavian Prasetyo, Junior Software Engineer and Cybersecurity Specialist
-**Student ID:** 22230016
-**Course:** Data Mining Practicum
-**Instructor:** Sir. Thomas Andrianto, S.Si., M.Cs
+**Name:** Dimas Oktavian Prasetyo, Junior Software Engineer and Cybersecurity Specialist | **Student ID (NIM):** 22230016 | **Course:** Data Mining Practicum | **Instructor:** Sir. Thomas Andrianto, S.Si., M.Cs
 
 ## Ringkasan
 
