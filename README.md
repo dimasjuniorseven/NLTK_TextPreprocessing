@@ -23,11 +23,12 @@ In the future, I plan to build upon this project by:
 This project is an important first step in my journey toward mastering NLP and data science, and I look forward to expanding it with more features and deeper analysis.
 
 ## 👤 Author Information
-**Name:**             Dimas Oktavian Prasetyo  
-**Role:**             Junior Software Engineer and Cybersecurity Specialist  
-**Student ID (NIM):** 22230016  
-**Course:**           Data Mining Practicum  
-**Instructor:**       Sir. Thomas Andrianto, S.Si., M.Cs
+
+**Name**         : Dimas Oktavian Prasetyo  
+**Student ID**   : 22230016  
+**Role**         : Junior Software Engineer and Cybersecurity Specialist  
+**Course**       : Data Mining Practicum  
+**Instructor**   : Sir. Thomas Andrianto, S.Si., M.Cs
 
 ## Ringkasan
 Proyek ini adalah tugas saya dalam mempelajari prapemrosesan teks menggunakan Python dan pustaka NLTK. Saya menjalankan dan menuliskan semua proses ini menggunakan Jupyter Notebook melalui Anaconda Navigator. Proses mencakup tokenisasi, case folding, pembersihan tanda baca, penghapusan stopwords, serta stemming atau lemmatization. Hasil akhirnya adalah teks yang bersih dan siap digunakan untuk analisis lanjutan.
